@@ -7,6 +7,9 @@ assignees: ''
 
 ---
 
+**Funcionalidad:**
+Funcionalidad a la que pertenece el escenario.
+
 **Comportamiento Esperado:**
 Descripción del comportamiento esperado para el escenario de pruebas ejecutado.
 
